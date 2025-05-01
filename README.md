@@ -36,7 +36,7 @@ fertilizer_Prediction/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/vkasw1n/Fertilizer_Recommendation_App.git
 cd fertilizer_Prediction
 ```
 
@@ -136,10 +136,3 @@ Feel free to:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-[Your chosen license]
-
-## Contact
-
-[Your contact information] 
