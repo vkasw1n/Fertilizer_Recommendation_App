@@ -136,3 +136,5 @@ Feel free to:
 3. Make your changes
 4. Submit a pull request
 
+🚀 Try it now
+👉 https://vkasw1n-fertilizer-recommendation.streamlit.app/
